@@ -36,7 +36,8 @@ git fetch (traer del remoto)
 git merge (mezclar remoto y local)
 git pull (trae del remoto y mezcla con el local)
 
-
+git remote add origin https://github.com/carlosdelgado841/curso-git-proyecto1.git
+git push origin master
 
 ***git init**
 ***git add .** (o git add archivo.txt)
