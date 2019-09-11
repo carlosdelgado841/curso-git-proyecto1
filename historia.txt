@@ -47,7 +47,8 @@ eval $(ssh-agent -s)
 git log --all --graph --decorate --oneline
 alias gitarbol="git log --all --graph --decorate --oneline"
 git tag -a v0.1 -m "Resultados de las primeras clases del curso" f0efc97
-
+git show-ref --tags
+git push origin --tags
 
 
 ***git init**
