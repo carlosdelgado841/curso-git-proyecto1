@@ -6,3 +6,6 @@ Loren ipsum, dolor sit amet consectetur adipisicing elit. Vel aperiam maxime lab
  Carlos Enrique Delgado
 
  Hoy hablaremos de su historia y vida
+
+
+ Y sus proyectos en desarrollo de software
