@@ -23,6 +23,11 @@ git commit -m
 git checkout (codigo hex o master)
 git reset --hard
 git reset --software
+git log --stat
+
+BRANCH
+git branch cabecera
+
 
 Trabajo remoto
 git clone url
