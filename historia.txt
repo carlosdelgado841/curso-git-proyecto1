@@ -1,4 +1,4 @@
-Loren ipsum, dolor sit amet consectetur adipisicing elit. Vel aperiam maxime labore reprehenderit eum illum voluptate optio iure,
+﻿Loren ipsum, dolor sit amet consectetur adipisicing elit. Vel aperiam maxime labore reprehenderit eum illum voluptate optio iure,
  deserunt pariatur dolorum sit nulla in excepturi. Molestiae et natus optio ratione!
 
  26 Años
@@ -43,6 +43,11 @@ git pull origin master --allow-unrelated-histories
 SSH
 ssh-keygen -t rsa -b 4096 -C "carlos16931@hotmail.com"
 eval $(ssh-agent -s)
+
+git log --all --graph --decorate --oneline
+alias gitarbol="git log --all --graph --decorate --oneline"
+git tag -a v0.1 -m "Resultados de las primeras clases del curso" f0efc97
+
 
 
 ***git init**
