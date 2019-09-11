@@ -49,7 +49,9 @@ alias gitarbol="git log --all --graph --decorate --oneline"
 git tag -a v0.1 -m "Resultados de las primeras clases del curso" f0efc97
 git show-ref --tags
 git push origin --tags
-
+git push origin :refs/tags/dormido
+git tag -d dormido
+gitk
 
 ***git init**
 ***git add .** (o git add archivo.txt)
