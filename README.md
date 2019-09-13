@@ -10,6 +10,9 @@ Curso git Proyecto 1 (Hyperblog)
 - Colaboradores
 - git cherry-pick
 - despues viene el curso de vue js completo
+- despues el curso de php avanzado
+- y seguir estudiando ingles 
+
 &copy;CarlosDelgadoRico 😀😎
 [========]
 2019-09-13 10:09:54 Friday
