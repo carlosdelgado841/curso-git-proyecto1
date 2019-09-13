@@ -63,3 +63,6 @@ gitk
 ***git reset 'codigo hexadecimal' -hard/soft**: para volver a una versión anterior. Con -hard se pierden todos los commits hechos hasta ese punto. Con -soft se mantienen los cambios en el staging, se les pueden volver a hacer commit.
 ***git checkout 'codigo hexadecimal' 'archivo.txt'**: trae una version vieja a la versión actual.
 ***git checkout master 'archivo.txt'**: trae el master.
+
+
+Historia 2
