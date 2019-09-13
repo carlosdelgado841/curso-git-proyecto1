@@ -9,7 +9,7 @@ Curso git Proyecto 1 (Hyperblog)
 - Branchs
 - Colaboradores
 - git cherry-pick
-
+- despues viene el curso de vue js completo
 &copy;CarlosDelgadoRico 😀😎
 [========]
 2019-09-13 10:09:54 Friday
