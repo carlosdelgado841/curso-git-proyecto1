@@ -8,6 +8,8 @@ Curso git Proyecto 1 (Hyperblog)
 - Pull request
 - Branchs
 - Colaboradores
+- Programadores
+- UX Team
 - git cherry-pick
 - despues viene el curso de vue js completo
 - despues el curso de php avanzado
