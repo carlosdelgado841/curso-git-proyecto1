@@ -8,6 +8,7 @@ Curso git Proyecto 1 (Hyperblog)
 - Pull request
 - Branchs
 - Colaboradores
+- git cherry-pick
 
 &copy;CarlosDelgadoRico 😀😎
 [========]
